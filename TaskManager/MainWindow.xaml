@@ -15,7 +15,6 @@
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Номер" Width="100" Binding="{Binding Id}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Название" Width="500" Binding="{Binding ProcessName}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Имя" Width="500" Binding="{Binding SelectedProcess.VirtualMemorySize64}"></DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
         <Button Content="Снять задачу" HorizontalAlignment="Left" Margin="454,0,0,0" Grid.Row="1" VerticalAlignment="Center" Width="119" Click="CloseProcessButton"/>
