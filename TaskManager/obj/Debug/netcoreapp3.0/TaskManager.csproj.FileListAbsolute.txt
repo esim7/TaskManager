@@ -1,0 +1,17 @@
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.exe
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.deps.json
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.runtimeconfig.json
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.runtimeconfig.dev.json
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.dll
+C:\Users\home\source\repos\TaskManager\TaskManager\bin\Debug\netcoreapp3.0\TaskManager.pdb
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.csprojAssemblyReference.cache
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager_MarkupCompile.cache
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager_MarkupCompile.lref
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.g.resources
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.AssemblyInfo.cs
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.dll
+C:\Users\home\source\repos\TaskManager\TaskManager\obj\Debug\netcoreapp3.0\TaskManager.pdb
